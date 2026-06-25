@@ -479,6 +479,8 @@ footer {
   border-radius: 12px;
 }
 
+/* Responsividade Geral */
+
 @media (max-width: 768px) {
   .hero {
     min-height: auto;
@@ -564,6 +566,8 @@ footer {
   font-weight: 600;
 }
 
+/* GALERIA */
+
 .art-gallery {
   padding: 80px 5%;
 
@@ -591,7 +595,7 @@ footer {
 .gallery-grid {
   display: grid;
 
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(2, 1fr);
 
   gap: 20px;
 }
@@ -617,6 +621,44 @@ footer {
 
   box-shadow: 0 25px 50px rgba(0, 0, 0, 0.2);
 }
+
+/* Carregamento de imagens na galeria */
+
+.gallery-actions {
+  display: flex;
+
+  justify-content: center;
+
+  margin-top: 40px;
+}
+
+.load-more-btn {
+  border: none;
+
+  background: var(--primary);
+
+  color: white;
+
+  padding: 15px 30px;
+
+  border-radius: 14px;
+
+  font-size: 16px;
+
+  font-weight: 600;
+
+  cursor: pointer;
+
+  transition: 0.3s;
+}
+
+.load-more-btn:hover {
+  background: var(--primary-dark);
+
+  transform: translateY(-2px);
+}
+
+/* Responsiividade Galeria */
 
 @media (max-width: 1100px) {
   .gallery-grid {
