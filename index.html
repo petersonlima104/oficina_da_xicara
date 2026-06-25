@@ -1,0 +1,108 @@
+<!doctype html>
+
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Oficina da Xícara</title>
+
+    <meta
+      name="description"
+      content="Canecas, xícaras e copos personalizados."
+    />
+    <meta name="theme-color" content="#6C5DD3" />
+
+    <link rel="stylesheet" href="css/style.css" />
+
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap"
+      rel="stylesheet"
+    />
+  </head>
+
+  <body>
+    <header class="header">
+      <div class="logo-area">
+        <div class="logo-icon">☕</div>
+
+        <div>
+          <h1>Oficina da Xícara</h1>
+          <span>Momentos especiais em cada gole</span>
+        </div>
+      </div>
+
+      <nav>
+        <button id="darkModeBtn" class="icon-btn">🌙</button>
+
+        <a href="carrinho.html" class="cart-button">
+          🛒
+
+          <span id="cartCount"> 0 </span>
+        </a>
+      </nav>
+    </header>
+
+    <section class="hero">
+      <div class="hero-content">
+        <h2>Transforme cada café em um momento especial</h2>
+
+        <p>
+          Xícaras, canecas e copos personalizados para presentear ou colecionar.
+        </p>
+
+        <a href="#produtos" class="hero-btn"> Ver Produtos </a>
+      </div>
+    </section>
+
+    <section class="controls">
+      <input type="text" id="searchInput" placeholder="Buscar produtos..." />
+
+      <select id="categoryFilter">
+        <option value="Todos">Todas Categorias</option>
+
+        <option value="Xícaras">Xícaras</option>
+
+        <option value="Canecas">Canecas</option>
+
+        <option value="Copos">Copos</option>
+      </select>
+    </section>
+
+    <section class="featured">
+      <h2>Produtos em Destaque</h2>
+    </section>
+
+    <main id="produtos" class="products-grid"></main>
+
+    <div id="toast" class="toast">Produto adicionado ao carrinho</div>
+
+    <section class="featured">
+      <div class="featured-grid">
+        <div class="feature-card">🚚 Frete para todo Brasil</div>
+
+        <div class="feature-card">💳 Parcelamento facilitado</div>
+
+        <div class="feature-card">🎁 Presentes personalizados</div>
+
+        <div class="feature-card">⭐ Qualidade Premium</div>
+      </div>
+    </section>
+
+    <footer>
+      <div class="footer-content">
+        <h3>Oficina da Xícara</h3>
+
+        <p>Canecas, xícaras e copos personalizados.</p>
+
+        <a href="https://wa.me/5551980533399" target="_blank"> WhatsApp </a>
+      </div>
+    </footer>
+
+    <script src="js/produtos.js"></script>
+
+    <script src="js/app.js"></script>
+  </body>
+</html>

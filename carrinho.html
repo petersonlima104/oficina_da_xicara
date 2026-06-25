@@ -1,0 +1,57 @@
+<!doctype html>
+
+<html lang="pt-BR">
+  <head>
+    <meta charset="UTF-8" />
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
+    <title>Carrinho | Oficina da Xícara</title>
+
+    <link rel="stylesheet" href="css/style.css" />
+  </head>
+
+  <body>
+    <header class="header">
+      <div class="logo-area">
+        <div class="logo-icon">☕</div>
+
+        <div>
+          <h1>Oficina da Xícara</h1>
+
+          <span> Seu carrinho </span>
+        </div>
+      </div>
+
+      <nav>
+        <a href="index.html" class="cart-button"> 🏠 </a>
+      </nav>
+    </header>
+
+    <section style="padding: 40px 5%">
+      <h2 style="margin-bottom: 25px">Meu Carrinho</h2>
+
+      <div id="listaCarrinho"></div>
+    </section>
+
+    <section style="padding: 0 5% 60px">
+      <div class="feature-card">
+        <h3>Total</h3>
+
+        <h2 id="valorTotal">R$ 0,00</h2>
+
+        <br />
+
+        <button id="btnWhatsapp" class="add-btn">
+          Finalizar pelo WhatsApp
+        </button>
+
+        <br /><br />
+
+        <button id="btnLimpar" class="add-btn">Limpar Carrinho</button>
+      </div>
+    </section>
+
+    <script src="js/carrinho.js"></script>
+  </body>
+</html>
