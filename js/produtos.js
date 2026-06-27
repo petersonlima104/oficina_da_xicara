@@ -27,6 +27,10 @@ const produtos = [
         tipo: "imagem",
         src: "assets/produtos/xicara17/mae 4.png",
       },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara17/mae 5.png",
+      },
     ],
   },
 
@@ -48,11 +52,35 @@ const produtos = [
       },
       {
         tipo: "imagem",
-        src: "assets/produtos/xicara18/grey 1.png",
+        src: "assets/produtos/xicara18/grey 1.jpg",
       },
       {
         tipo: "imagem",
         src: "assets/produtos/xicara18/grey 3.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara18/grey 4.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara18/grey 5.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara18/grey 6.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara18/grey 7.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara18/grey 8.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara18/grey 9.jpg",
       },
     ],
   },
@@ -431,7 +459,15 @@ const produtos = [
     midias: [
       {
         tipo: "imagem",
-        src: "assets/produtos/xicara9/diaavo 1.png",
+        src: "assets/produtos/xicara9/vovo 1.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara9/vovo 2.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara9/vovo 3.png",
       },
     ],
   },
@@ -797,6 +833,235 @@ const produtos = [
 
   {
     id: 21,
+
+    nome: "House",
+
+    categoria: "Xícaras",
+
+    preco: 39.9,
+
+    descricao: "Caneca da série House para presentear.",
+
+    midias: [
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara21/house 1.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara21/house 2.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara21/house 3.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara21/house 4.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara21/house 5.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara21/house 6.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara21/house 7.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara21/house 8.jpg",
+      },
+    ],
+  },
+
+  {
+    id: 22,
+
+    nome: "Outlander",
+
+    categoria: "Xícaras",
+
+    preco: 39.9,
+
+    descricao: "Caneca da série Outlander para presentear.",
+
+    midias: [
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara22/outlander 1.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara22/outlander 2.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara22/outlander 3.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara22/outlander 4.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara22/outlander 5.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara22/outlander 6.jpg",
+      },
+    ],
+  },
+
+  {
+    id: 23,
+
+    nome: "Lucifer",
+
+    categoria: "Xícaras",
+
+    preco: 39.9,
+
+    descricao: "Caneca da série Lucifer para presentear.",
+
+    midias: [
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara23/lucifer 1.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara23/lucifer 2.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara23/lucifer 3.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara23/lucifer 4.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara23/lucifer 5.jpg",
+      },
+    ],
+  },
+
+  {
+    id: 24,
+
+    nome: "Games Classicos",
+
+    categoria: "Xícaras",
+
+    preco: 39.9,
+
+    descricao: "Caneca Games Classicos para presentear.",
+
+    midias: [
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara24/classico 1.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara24/classico 2.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara24/classico 3.png",
+      },
+    ],
+  },
+
+  {
+    id: 25,
+
+    nome: "Natal",
+
+    categoria: "Xícaras",
+
+    preco: 39.9,
+
+    descricao: "Caneca de Natal para presentear.",
+
+    midias: [
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara25/natal 1.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara25/natal 2.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara25/natal 3.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara25/natal 4.png",
+      },
+    ],
+  },
+
+  {
+    id: 26,
+
+    nome: "Amizade",
+
+    categoria: "Xícaras",
+
+    preco: 39.9,
+
+    descricao: "Caneca da Amizade para presentear.",
+
+    midias: [
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara26/amiga 1.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara26/amiga 2.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara26/amiga 3.png",
+      },
+    ],
+  },
+
+  {
+    id: 27,
+
+    nome: "Profissões",
+
+    categoria: "Xícaras",
+
+    preco: 39.9,
+
+    descricao: "Caneca Profissões para presentear.",
+
+    midias: [
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/profissao 1.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/profissao 2.png",
+      },
+    ],
+  },
+
+  {
+    id: 99,
 
     nome: "Xícara Personalizada",
 
