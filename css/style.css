@@ -696,3 +696,44 @@ footer {
     grid-template-columns: 1fr;
   }
 }
+
+/* ================================
+   BOTÃO FLUTUANTE WHATSAPP
+================================ */
+.whatsapp-float {
+  position: fixed;
+  width: 58px;
+  height: 58px;
+  bottom: 22px;
+  right: 22px;
+  background: #25d366;
+  color: white;
+  border-radius: 50%;
+  font-size: 32px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 9999;
+  box-shadow: 0 0 12px rgba(0, 0, 0, 0.5);
+  animation: pulse 1.5s infinite;
+}
+
+/* Animação */
+@keyframes pulse {
+  0% {
+    transform: scale(1);
+    box-shadow: 0 0 0 0 rgba(37, 211, 102, 0.7);
+  }
+  70% {
+    transform: scale(1.1);
+    box-shadow: 0 0 0 15px rgba(37, 211, 102, 0);
+  }
+  100% {
+    transform: scale(1);
+  }
+}
+
+.whatsapp-float:hover {
+  transform: scale(1.2);
+  box-shadow: 0 0 20px rgba(37, 211, 102, 0.9);
+}
