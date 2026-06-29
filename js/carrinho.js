@@ -200,7 +200,7 @@ ${formatarMoeda(calcularTotal())}
 
 Obrigado!`;
 
-  const url = `https://wa.me/5551980533399?text=${encodeURIComponent(mensagem)}`;
+  const url = `https://wa.me/5551981598167?text=${encodeURIComponent(mensagem)}`;
 
   window.open(url, "_blank");
 });
