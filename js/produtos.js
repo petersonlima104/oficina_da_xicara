@@ -4,11 +4,11 @@ const produtos = [
 
     nome: "Dia das Mães",
 
-    categoria: "Xícaras",
+    categoria: "datas",
 
     preco: 39.9,
 
-    descricao: "Caneca do Dia das Mães para presentear.",
+    descricao: "Xícara do Dia das Mães para presentear.",
 
     midias: [
       {
@@ -39,11 +39,11 @@ const produtos = [
 
     nome: "Grey's Anatomy",
 
-    categoria: "Xícaras",
+    categoria: "serie",
 
     preco: 39.9,
 
-    descricao: "Caneca da série Grey's Anatomy para presentear.",
+    descricao: "Xícara da série Grey's Anatomy para presentear.",
 
     midias: [
       {
@@ -90,7 +90,7 @@ const produtos = [
 
     nome: "Friends",
 
-    categoria: "Xícaras",
+    categoria: "serie",
 
     preco: 39.9,
 
@@ -125,7 +125,7 @@ const produtos = [
 
     nome: "Game of Thrones",
 
-    categoria: "Xícaras",
+    categoria: "serie",
 
     preco: 39.9,
 
@@ -220,7 +220,7 @@ const produtos = [
 
     nome: "Naruto",
 
-    categoria: "Xícaras",
+    categoria: "anime",
 
     preco: 39.9,
 
@@ -267,7 +267,7 @@ const produtos = [
 
     nome: "The BlackList",
 
-    categoria: "Xícaras",
+    categoria: "serie",
 
     preco: 39.9,
 
@@ -298,7 +298,7 @@ const produtos = [
 
     nome: "Riverdale",
 
-    categoria: "Xícaras",
+    categoria: "serie",
 
     preco: 39.9,
 
@@ -337,7 +337,7 @@ const produtos = [
 
     nome: "Black Mirror",
 
-    categoria: "Xícaras",
+    categoria: "serie",
 
     preco: 39.9,
 
@@ -372,7 +372,7 @@ const produtos = [
 
     nome: "Breaking Bad",
 
-    categoria: "Xícaras",
+    categoria: "serie",
 
     preco: 39.9,
 
@@ -427,7 +427,7 @@ const produtos = [
 
     nome: "Dragon Ball",
 
-    categoria: "Xícaras",
+    categoria: "anime",
 
     preco: 39.9,
 
@@ -450,7 +450,7 @@ const produtos = [
 
     nome: "Dia dos Avós",
 
-    categoria: "Xícaras",
+    categoria: "datas",
 
     preco: 39.9,
 
@@ -477,7 +477,7 @@ const produtos = [
 
     nome: "Dexter",
 
-    categoria: "Xícaras",
+    categoria: "serie",
 
     preco: 39.9,
 
@@ -504,7 +504,7 @@ const produtos = [
 
     nome: "Diário de um Vampiro",
 
-    categoria: "Xícaras",
+    categoria: "serie",
 
     preco: 39.9,
 
@@ -559,7 +559,7 @@ const produtos = [
 
     nome: "Fear the Walking Dead",
 
-    categoria: "Xícaras",
+    categoria: "serie",
 
     preco: 39.9,
 
@@ -610,7 +610,7 @@ const produtos = [
 
     nome: "Flash",
 
-    categoria: "Xícaras",
+    categoria: "serie",
 
     preco: 39.9,
 
@@ -665,7 +665,7 @@ const produtos = [
 
     nome: "Meu Amor é CHOCO",
 
-    categoria: "Xícaras",
+    categoria: "datas",
 
     preco: 49.9,
 
@@ -696,11 +696,11 @@ const produtos = [
 
     nome: "Narcos",
 
-    categoria: "Xícaras",
+    categoria: "serie",
 
     preco: 39.9,
 
-    descricao: "Caneca da série Narcos para presentear.",
+    descricao: "Xícara da série Narcos para presentear.",
 
     midias: [
       {
@@ -743,11 +743,11 @@ const produtos = [
 
     nome: "Netflix",
 
-    categoria: "Xícaras",
+    categoria: "serie",
 
     preco: 39.9,
 
-    descricao: "Caneca Netflix para presentear.",
+    descricao: "Xícara Netflix para presentear.",
 
     midias: [
       {
@@ -778,11 +778,11 @@ const produtos = [
 
     nome: "GTA - Grand Theft Auto",
 
-    categoria: "Xícaras",
+    categoria: "games",
 
     preco: 39.9,
 
-    descricao: "Caneca GTA - Grand Theft Auto para presentear.",
+    descricao: "Xícara GTA - Grand Theft Auto para presentear.",
 
     midias: [
       {
@@ -809,11 +809,11 @@ const produtos = [
 
     nome: "Call of Duty",
 
-    categoria: "Xícaras",
+    categoria: "games",
 
     preco: 39.9,
 
-    descricao: "Caneca Call of Duty para presentear.",
+    descricao: "Xícara Call of Duty para presentear.",
 
     midias: [
       {
@@ -836,11 +836,11 @@ const produtos = [
 
     nome: "House",
 
-    categoria: "Xícaras",
+    categoria: "serie",
 
     preco: 39.9,
 
-    descricao: "Caneca da série House para presentear.",
+    descricao: "Xícara da série House para presentear.",
 
     midias: [
       {
@@ -883,11 +883,11 @@ const produtos = [
 
     nome: "Outlander",
 
-    categoria: "Xícaras",
+    categoria: "serie",
 
     preco: 39.9,
 
-    descricao: "Caneca da série Outlander para presentear.",
+    descricao: "Xícara da série Outlander para presentear.",
 
     midias: [
       {
@@ -922,11 +922,11 @@ const produtos = [
 
     nome: "Lucifer",
 
-    categoria: "Xícaras",
+    categoria: "serie",
 
     preco: 39.9,
 
-    descricao: "Caneca da série Lucifer para presentear.",
+    descricao: "Xícara da série Lucifer para presentear.",
 
     midias: [
       {
@@ -957,11 +957,11 @@ const produtos = [
 
     nome: "Games Classicos",
 
-    categoria: "Xícaras",
+    categoria: "gamescla",
 
     preco: 39.9,
 
-    descricao: "Caneca Games Classicos para presentear.",
+    descricao: "Xícara Games Classicos para presentear.",
 
     midias: [
       {
@@ -984,11 +984,11 @@ const produtos = [
 
     nome: "Natal",
 
-    categoria: "Xícaras",
+    categoria: "datas",
 
     preco: 39.9,
 
-    descricao: "Caneca de Natal para presentear.",
+    descricao: "Xícara de Natal para presentear.",
 
     midias: [
       {
@@ -1015,11 +1015,11 @@ const produtos = [
 
     nome: "Amizade",
 
-    categoria: "Xícaras",
+    categoria: "datas",
 
     preco: 39.9,
 
-    descricao: "Caneca da Amizade para presentear.",
+    descricao: "Xícara da Amizade para presentear.",
 
     midias: [
       {
@@ -1042,11 +1042,11 @@ const produtos = [
 
     nome: "Profissões",
 
-    categoria: "Xícaras",
+    categoria: "datas",
 
     preco: 39.9,
 
-    descricao: "Caneca Profissões para presentear.",
+    descricao: "Xícara Profissões para presentear.",
 
     midias: [
       {
@@ -1065,7 +1065,7 @@ const produtos = [
 
     nome: "Xícara Personalizada",
 
-    categoria: "Xícaras",
+    categoria: "personalizada",
 
     preco: 49.9,
 
