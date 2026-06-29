@@ -1042,7 +1042,7 @@ const produtos = [
 
     nome: "Profissões",
 
-    categoria: "datas",
+    categoria: "profissao",
 
     preco: 39.9,
 

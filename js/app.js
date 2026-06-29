@@ -76,6 +76,16 @@ function criarMidia(item) {
 }
 
 function renderizarProdutos(lista) {
+  const nomesCategorias = {
+    serie: "Séries",
+    gamescla: "Games Clássicos",
+    anime: "Animes",
+    games: "Games",
+    datas: "Datas Especiais",
+    profissao: "Profissões",
+    personalizada: "Personalizado",
+  };
+
   produtosGrid.innerHTML = "";
 
   lista.forEach((produto) => {
@@ -109,7 +119,7 @@ function renderizarProdutos(lista) {
             <div
                 class="product-category">
 
-                ${produto.categoria}
+                ${nomesCategorias[produto.categoria] || produto.categoria}
 
             </div>
 
