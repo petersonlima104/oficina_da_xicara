@@ -796,6 +796,75 @@ footer {
   animation: pulse 1.5s infinite;
 }
 
+/* ===========================
+   BOTÃO VOLTAR AO TOPO
+=========================== */
+
+.back-to-top {
+  position: fixed;
+
+  bottom: 30px;
+  left: 30px;
+
+  display: flex;
+  align-items: center;
+  gap: 8px;
+
+  padding: 14px 18px;
+
+  border: none;
+  border-radius: 50px;
+
+  background: linear-gradient(135deg, var(--primary), var(--secondary));
+
+  color: white;
+
+  font-size: 15px;
+  font-weight: 600;
+
+  cursor: pointer;
+
+  box-shadow: 0 12px 30px rgba(108, 93, 211, 0.35);
+
+  opacity: 0;
+  visibility: hidden;
+
+  transform: translateY(30px);
+
+  transition: 0.3s;
+
+  z-index: 999;
+}
+
+.back-to-top:hover {
+  transform: translateY(-4px);
+
+  box-shadow: 0 18px 40px rgba(108, 93, 211, 0.45);
+}
+
+.back-to-top.show {
+  opacity: 1;
+
+  visibility: visible;
+
+  transform: translateY(0);
+}
+
+.back-to-top i {
+  font-size: 18px;
+}
+
+@media (max-width: 768px) {
+  .back-to-top {
+    left: 20px;
+    bottom: 20px;
+
+    padding: 12px 16px;
+
+    font-size: 14px;
+  }
+}
+
 /* Animação */
 @keyframes pulse {
   0% {

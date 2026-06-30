@@ -1,3 +1,5 @@
+const backToTop = document.getElementById("backToTop");
+
 const galleryGrid = document.getElementById("galleryGrid");
 
 let carregadas = 0;
@@ -103,13 +105,27 @@ function carregarImagens() {
 }
 
 window.addEventListener("scroll", () => {
-  if (carregadas >= imagens.length) {
-    return;
-  }
-
-  if (window.innerHeight + window.scrollY >= document.body.offsetHeight - 500) {
+  if (
+    carregadas < imagens.length &&
+    window.innerHeight + window.scrollY >= document.body.offsetHeight - 500
+  ) {
     carregarImagens();
   }
+
+  // Define a altura para exibir o botão
+  const alturaExibicao = window.innerWidth <= 768 ? 19000 : 8000;
+
+  if (window.scrollY > alturaExibicao) {
+    backToTop.classList.add("show");
+  } else {
+    backToTop.classList.remove("show");
+  }
+});
+
+backToTop.addEventListener("click", () => {
+  document.getElementById("galeria").scrollIntoView({
+    behavior: "smooth",
+  });
 });
 
 // Clique dos botões
