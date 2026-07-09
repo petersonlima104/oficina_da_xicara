@@ -1,5 +1,36 @@
 const produtos = [
   {
+    id: 28,
+
+    nome: "Dia dos Pais",
+
+    categoria: "datas",
+
+    preco: 39.9,
+
+    descricao: "Xícara do Dia dos Pais para presentear.",
+
+    midias: [
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 1.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 2.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 3.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 4.jpg",
+      },
+    ],
+  },
+
+  {
     id: 17,
 
     nome: "Dia das Mães",

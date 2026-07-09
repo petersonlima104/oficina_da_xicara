@@ -32,11 +32,11 @@ function carregarCategoria(categoria) {
       break;
 
     case "datas":
-      for (let i = 1; i <= 213; i++) {
-        imagens.push(`assets/datas/Arte (${i}).jpg`);
-      }
-      for (let i = 1; i <= 124; i++) {
+      for (let i = 1; i <= 128; i++) {
         imagens.push(`assets/dataspng/Arte (${i}).png`);
+      }
+      for (let i = 1; i <= 214; i++) {
+        imagens.push(`assets/datas/Arte (${i}).jpg`);
       }
 
       break;
