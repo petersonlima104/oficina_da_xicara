@@ -294,6 +294,81 @@ const produtos = [
   },
 
   {
+    id: 29,
+
+    nome: "Emojis",
+
+    categoria: "variados",
+
+    preco: 39.9,
+
+    descricao: "Caneca Emojis para presentear.",
+
+    midias: [
+      {
+        tipo: "imagem",
+        categoria: "datas",
+        src: "assets/produtos/xicara29/emoji1.png",
+      },
+      {
+        tipo: "imagem",
+        categoria: "datas",
+        src: "assets/produtos/xicara29/emoji2.png",
+      },
+      {
+        tipo: "imagem",
+        categoria: "datas",
+        src: "assets/produtos/xicara29/emoji3.png",
+      },
+      {
+        tipo: "imagem",
+        categoria: "datas",
+        src: "assets/produtos/xicara29/emoji4.png",
+      },
+      {
+        tipo: "imagem",
+        categoria: "datas",
+        src: "assets/produtos/xicara29/emoji5.png",
+      },
+      {
+        tipo: "imagem",
+        categoria: "datas",
+        src: "assets/produtos/xicara29/emoji6.png",
+      },
+      {
+        tipo: "imagem",
+        categoria: "datas",
+        src: "assets/produtos/xicara29/emoji7.png",
+      },
+      {
+        tipo: "imagem",
+        categoria: "datas",
+        src: "assets/produtos/xicara29/emoji8.png",
+      },
+      {
+        tipo: "imagem",
+        categoria: "datas",
+        src: "assets/produtos/xicara29/emoji9.png",
+      },
+      {
+        tipo: "imagem",
+        categoria: "datas",
+        src: "assets/produtos/xicara29/emoji10.png",
+      },
+      {
+        tipo: "imagem",
+        categoria: "datas",
+        src: "assets/produtos/xicara29/emoji11.png",
+      },
+      {
+        tipo: "imagem",
+        categoria: "datas",
+        src: "assets/produtos/xicara29/emoji12.png",
+      },
+    ],
+  },
+
+  {
     id: 1,
 
     nome: "The BlackList",
@@ -1087,6 +1162,29 @@ const produtos = [
       {
         tipo: "imagem",
         src: "assets/produtos/xicara27/profissao 2.png",
+      },
+    ],
+  },
+
+  {
+    id: 30,
+
+    nome: "Musica",
+
+    categoria: "variados",
+
+    preco: 39.9,
+
+    descricao: "Caneca Variada para presentear.",
+
+    midias: [
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara30/musica 11.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara30/musica 22.png",
       },
     ],
   },

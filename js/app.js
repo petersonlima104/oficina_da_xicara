@@ -84,6 +84,7 @@ function renderizarProdutos(lista) {
     datas: "Datas Especiais",
     profissao: "Profissões",
     personalizada: "Personalizado",
+    variados: "Variados",
   };
 
   produtosGrid.innerHTML = "";
