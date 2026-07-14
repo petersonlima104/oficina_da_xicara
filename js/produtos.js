@@ -773,7 +773,7 @@ const produtos = [
 
     categoria: "datas",
 
-    preco: 49.9,
+    preco: 39.9,
 
     descricao: "Xícara Romance CHOCO para presentear.",
 
@@ -1196,7 +1196,7 @@ const produtos = [
 
     categoria: "personalizada",
 
-    preco: 49.9,
+    preco: 39.9,
 
     descricao: "Xícara personalizada",
 
