@@ -27,6 +27,218 @@ const produtos = [
         tipo: "imagem",
         src: "assets/produtos/xicara28/pai 4.jpg",
       },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 5.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 6.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 7.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 8.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 9.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 10.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 11.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 12.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 13.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 14.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 15.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 16.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 17.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 18.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 19.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 20.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 21.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 22.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 23.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 24.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 25.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 26.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 27.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 28.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 29.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 30.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 31.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 32.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 33.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 34.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 35.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 36.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 37.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 38.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 39.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 40.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 41.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 42.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 43.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 44.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 45.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 46.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 47.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 48.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 49.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 50.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 51.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 52.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 53.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 54.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 55.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 56.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 57.jpg",
+      },
     ],
   },
 
@@ -61,6 +273,94 @@ const produtos = [
       {
         tipo: "imagem",
         src: "assets/produtos/xicara17/mae 5.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara17/mae 6.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara17/mae 7.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara17/mae 8.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara17/mae 9.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara17/mae 10.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara17/mae 11.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara17/mae 12.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara17/mae 13.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara17/mae 14.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara17/mae 15.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara17/mae 16.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara17/mae 17.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara17/mae 18.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara17/mae 19.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara17/mae 20.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara17/mae 21.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara17/mae 22.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara17/mae 23.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara17/mae 24.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara17/mae 25.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara17/mae 26.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara17/mae 27.png",
       },
     ],
   },
