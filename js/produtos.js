@@ -1570,11 +1570,71 @@ const produtos = [
       },
       {
         tipo: "imagem",
-        src: "assets/produtos/xicara32/artista 10.png",
+        src: "assets/produtos/xicara32/artista 10.jpg",
       },
       {
         tipo: "imagem",
-        src: "assets/produtos/xicara32/artista 11.png",
+        src: "assets/produtos/xicara32/artista 11.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 12.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 13.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 14.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 15.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 16.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 17.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 18.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 19.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 20.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 21.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 22.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 23.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 24.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 25.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 26.png",
       },
     ],
   },
