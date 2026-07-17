@@ -25,7 +25,7 @@ const produtos = [
       },
       {
         tipo: "imagem",
-        src: "assets/produtos/xicara28/pai 4.jpg",
+        src: "assets/produtos/xicara28/pai 6.jpg",
       },
       {
         tipo: "imagem",
@@ -33,7 +33,7 @@ const produtos = [
       },
       {
         tipo: "imagem",
-        src: "assets/produtos/xicara28/pai 6.jpg",
+        src: "assets/produtos/xicara28/pai 58.jpg",
       },
       {
         tipo: "imagem",
@@ -233,11 +233,11 @@ const produtos = [
       },
       {
         tipo: "imagem",
-        src: "assets/produtos/xicara28/pai 56.jpg",
+        src: "assets/produtos/xicara28/pai 57.jpg",
       },
       {
         tipo: "imagem",
-        src: "assets/produtos/xicara28/pai 57.jpg",
+        src: "assets/produtos/xicara28/pai 4.jpg",
       },
     ],
   },
@@ -345,10 +345,6 @@ const produtos = [
       {
         tipo: "imagem",
         src: "assets/produtos/xicara17/mae 23.png",
-      },
-      {
-        tipo: "imagem",
-        src: "assets/produtos/xicara17/mae 24.png",
       },
       {
         tipo: "imagem",
@@ -1485,6 +1481,41 @@ const produtos = [
       {
         tipo: "imagem",
         src: "assets/produtos/xicara30/musica 22.png",
+      },
+    ],
+  },
+
+  {
+    id: 31,
+
+    nome: "Barbie",
+
+    categoria: "infantil",
+
+    preco: 39.9,
+
+    descricao: "Caneca Barbie para presentear.",
+
+    midias: [
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara31/barbie 2.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara31/barbie 3.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara31/barbie 4.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara31/barbie 1.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara31/barbie 5.jpg",
       },
     ],
   },

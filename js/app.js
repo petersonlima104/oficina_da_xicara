@@ -85,6 +85,7 @@ function renderizarProdutos(lista) {
     profissao: "Profissões",
     personalizada: "Personalizado",
     variados: "Variados",
+    infantil: "Infantil",
   };
 
   produtosGrid.innerHTML = "";
