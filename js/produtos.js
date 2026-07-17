@@ -1,6 +1,6 @@
 const produtos = [
   {
-    id: 28,
+    id: 1,
 
     nome: "Dia dos Pais",
 
@@ -243,7 +243,7 @@ const produtos = [
   },
 
   {
-    id: 17,
+    id: 2,
 
     nome: "Dia das Mães",
 
@@ -362,7 +362,7 @@ const produtos = [
   },
 
   {
-    id: 18,
+    id: 3,
 
     nome: "Grey's Anatomy",
 
@@ -413,7 +413,7 @@ const produtos = [
   },
 
   {
-    id: 2,
+    id: 4,
 
     nome: "Friends",
 
@@ -448,7 +448,7 @@ const produtos = [
   },
 
   {
-    id: 3,
+    id: 5,
 
     nome: "Game of Thrones",
 
@@ -543,7 +543,7 @@ const produtos = [
   },
 
   {
-    id: 4,
+    id: 6,
 
     nome: "Naruto",
 
@@ -590,7 +590,7 @@ const produtos = [
   },
 
   {
-    id: 29,
+    id: 7,
 
     nome: "Emojis",
 
@@ -665,7 +665,7 @@ const produtos = [
   },
 
   {
-    id: 1,
+    id: 8,
 
     nome: "The BlackList",
 
@@ -696,7 +696,7 @@ const produtos = [
   },
 
   {
-    id: 5,
+    id: 9,
 
     nome: "Riverdale",
 
@@ -735,7 +735,7 @@ const produtos = [
   },
 
   {
-    id: 6,
+    id: 10,
 
     nome: "Black Mirror",
 
@@ -770,7 +770,7 @@ const produtos = [
   },
 
   {
-    id: 7,
+    id: 11,
 
     nome: "Breaking Bad",
 
@@ -825,7 +825,7 @@ const produtos = [
   },
 
   {
-    id: 8,
+    id: 12,
 
     nome: "Dragon Ball",
 
@@ -848,7 +848,7 @@ const produtos = [
   },
 
   {
-    id: 9,
+    id: 13,
 
     nome: "Dia dos Avós",
 
@@ -875,7 +875,7 @@ const produtos = [
   },
 
   {
-    id: 10,
+    id: 14,
 
     nome: "Dexter",
 
@@ -902,7 +902,7 @@ const produtos = [
   },
 
   {
-    id: 11,
+    id: 15,
 
     nome: "Diário de um Vampiro",
 
@@ -957,7 +957,7 @@ const produtos = [
   },
 
   {
-    id: 12,
+    id: 16,
 
     nome: "Fear the Walking Dead",
 
@@ -1008,7 +1008,7 @@ const produtos = [
   },
 
   {
-    id: 13,
+    id: 17,
 
     nome: "Flash",
 
@@ -1063,7 +1063,7 @@ const produtos = [
   },
 
   {
-    id: 14,
+    id: 18,
 
     nome: "Meu Amor é CHOCO",
 
@@ -1094,7 +1094,7 @@ const produtos = [
   },
 
   {
-    id: 15,
+    id: 19,
 
     nome: "Narcos",
 
@@ -1141,7 +1141,7 @@ const produtos = [
   },
 
   {
-    id: 16,
+    id: 20,
 
     nome: "Netflix",
 
@@ -1176,7 +1176,7 @@ const produtos = [
   },
 
   {
-    id: 19,
+    id: 21,
 
     nome: "GTA - Grand Theft Auto",
 
@@ -1207,7 +1207,7 @@ const produtos = [
   },
 
   {
-    id: 20,
+    id: 22,
 
     nome: "Call of Duty",
 
@@ -1234,7 +1234,7 @@ const produtos = [
   },
 
   {
-    id: 21,
+    id: 23,
 
     nome: "House",
 
@@ -1281,7 +1281,7 @@ const produtos = [
   },
 
   {
-    id: 22,
+    id: 24,
 
     nome: "Outlander",
 
@@ -1320,7 +1320,7 @@ const produtos = [
   },
 
   {
-    id: 23,
+    id: 25,
 
     nome: "Lucifer",
 
@@ -1355,7 +1355,7 @@ const produtos = [
   },
 
   {
-    id: 24,
+    id: 26,
 
     nome: "Games Classicos",
 
@@ -1382,7 +1382,7 @@ const produtos = [
   },
 
   {
-    id: 25,
+    id: 27,
 
     nome: "Natal",
 
@@ -1413,7 +1413,7 @@ const produtos = [
   },
 
   {
-    id: 26,
+    id: 28,
 
     nome: "Amizade",
 
@@ -1440,7 +1440,7 @@ const produtos = [
   },
 
   {
-    id: 27,
+    id: 29,
 
     nome: "Profissões",
 
@@ -1516,6 +1516,148 @@ const produtos = [
       {
         tipo: "imagem",
         src: "assets/produtos/xicara31/barbie 5.jpg",
+      },
+    ],
+  },
+
+  {
+    id: 32,
+
+    nome: "Artistas",
+
+    categoria: "variados",
+
+    preco: 39.9,
+
+    descricao: "Caneca de Artistas para presentear.",
+
+    midias: [
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 1.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 2.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 3.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 4.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 5.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 6.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 7.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 8.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 9.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 10.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 11.png",
+      },
+    ],
+  },
+
+  {
+    id: 33,
+
+    nome: "Meu Pet",
+
+    categoria: "variados",
+
+    preco: 39.9,
+
+    descricao: "Caneca Pet para presentear.",
+
+    midias: [
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara33/pet 1.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara33/pet 2.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara33/pet 3.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara33/pet 4.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara33/pet 5.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara33/pet 6.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara33/pet 7.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara33/pet 8.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara33/pet 9.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara33/pet 10.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara33/pet 11.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara33/pet 12.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara33/pet 13.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara33/pet 14.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara33/pet 15.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara33/pet 16.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara33/pet 17.jpg",
       },
     ],
   },
