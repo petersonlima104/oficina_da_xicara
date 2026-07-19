@@ -586,6 +586,26 @@ const produtos = [
         tipo: "imagem",
         src: "assets/produtos/xicara4/naruto 8.png",
       },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara4/naruto 9.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara4/naruto 10.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara4/naruto 11.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara4/naruto 12.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara4/naruto 13.jpg",
+      },
     ],
   },
 
@@ -871,6 +891,94 @@ const produtos = [
         tipo: "imagem",
         src: "assets/produtos/xicara9/vovo 3.png",
       },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara9/vovo 4.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara9/vovo 5.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara9/vovo 6.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara9/vovo 7.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara9/vovo 8.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara9/vovo 9.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara9/vovo 10.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara9/vovo 11.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara9/vovo 12.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara9/vovo 13.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara9/vovo 14.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara9/vovo 15.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara9/vovo 16.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara9/vovo 17.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara9/vovo 18.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara9/vovo 19.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara9/vovo 20.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara9/vovo 21.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara9/vovo 22.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara9/vovo 23.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara9/vovo 24.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara9/vovo 25.jpg",
+      },
     ],
   },
 
@@ -1065,30 +1173,146 @@ const produtos = [
   {
     id: 18,
 
-    nome: "Meu Amor é CHOCO",
+    nome: "Dia dos Namorados",
 
     categoria: "datas",
 
     preco: 39.9,
 
-    descricao: "Xícara Romance CHOCO para presentear.",
+    descricao: "Xícara Dia dos Namorados para presentear.",
 
     midias: [
       {
         tipo: "imagem",
-        src: "assets/produtos/xicara14/romance 1.jpg",
+        src: "assets/produtos/xicara14/namorados 1.jpg",
       },
       {
         tipo: "imagem",
-        src: "assets/produtos/xicara14/romance 2.jpg",
+        src: "assets/produtos/xicara14/namorados 2.jpg",
       },
       {
         tipo: "imagem",
-        src: "assets/produtos/xicara14/romance 3.jpg",
+        src: "assets/produtos/xicara14/namorados 3.jpg",
       },
       {
         tipo: "imagem",
-        src: "assets/produtos/xicara14/romance 4.jpg",
+        src: "assets/produtos/xicara14/namorados 4.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 5.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 6.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 7.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 8.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 9.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 10.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 11.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 12.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 13.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 14.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 15.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 16.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 17.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 18.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 19.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 20.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 21.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 22.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 23.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 24.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 25.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 26.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 27.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 28.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 29.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 30.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 31.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 32.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara14/namorados 33.jpg",
       },
     ],
   },
@@ -1436,6 +1660,10 @@ const produtos = [
         tipo: "imagem",
         src: "assets/produtos/xicara26/amiga 3.png",
       },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara26/amiga 4.jpg",
+      },
     ],
   },
 
@@ -1453,11 +1681,515 @@ const produtos = [
     midias: [
       {
         tipo: "imagem",
-        src: "assets/produtos/xicara27/profissao 1.png",
+        src: "assets/produtos/xicara27/prof (2).jpg",
       },
       {
         tipo: "imagem",
-        src: "assets/produtos/xicara27/profissao 2.png",
+        src: "assets/produtos/xicara27/prof (15).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (3).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (4).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (5).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (6).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (7).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (8).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (9).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (10).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (11).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (12).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (13).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (14).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (16).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (17).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (18).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (19).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (20).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (21).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (22).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (23).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (24).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (25).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (26).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (27).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (28).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (29).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (30).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (31).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (32).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (33).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (34).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (35).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (36).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (37).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (38).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (39).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (40).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (41).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (42).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (43).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (44).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (45).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (46).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (47).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (48).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (49).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (50).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (51).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (52).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (53).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (54).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (55).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (56).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (57).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (58).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (59).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (60).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (61).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (62).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (63).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (64).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (65).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (66).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (67).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (68).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (69).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (70).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (71).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (72).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (73).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (74).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (75).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (76).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (77).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (78).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (79).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (80).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (81).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (82).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (1).png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (83).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (84).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (85).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (86).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (87).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (88).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (89).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (90).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (91).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (92).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (93).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (94).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (95).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (96).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (97).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (98).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (99).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (100).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (101).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (102).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (103).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (104).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (105).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (106).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (107).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (108).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (109).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (110).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (111).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (112).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (113).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (114).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (115).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (116).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (117).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (118).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (119).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (120).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (121).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (122).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (123).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (124).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (125).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (126).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (127).png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara27/prof (128).png",
       },
     ],
   },
@@ -1636,6 +2368,22 @@ const produtos = [
         tipo: "imagem",
         src: "assets/produtos/xicara32/artista 26.png",
       },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 27.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 28.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 29.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara32/artista 30.png",
+      },
     ],
   },
 
@@ -1718,6 +2466,552 @@ const produtos = [
       {
         tipo: "imagem",
         src: "assets/produtos/xicara33/pet 17.jpg",
+      },
+    ],
+  },
+
+  {
+    id: 34,
+
+    nome: "Disney",
+
+    categoria: "infantil",
+
+    preco: 39.9,
+
+    descricao: "Caneca Disney para presentear.",
+
+    midias: [
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara34/disney 1.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara34/disney 2.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara34/disney 3.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara34/disney 4.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara34/disney 5.jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara34/disney 6.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara34/disney 7.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara34/disney 8.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara34/disney 9.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara34/disney 10.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara34/disney 11.png",
+      },
+    ],
+  },
+
+  {
+    id: 35,
+
+    nome: "Dindo / Padrinho",
+
+    categoria: "datas",
+
+    preco: 39.9,
+
+    descricao: "Xícara Dindo personalizada para presentear.",
+
+    midias: [
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (1).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (2).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (3).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (4).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (5).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (6).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (7).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (8).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (9).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (10).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (11).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (12).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (13).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (14).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (15).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (16).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (17).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (18).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (19).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (20).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (21).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (22).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (23).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (24).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (25).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (26).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (27).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara35/dindo (28).jpg",
+      },
+    ],
+  },
+
+  {
+    id: 36,
+
+    nome: "Desenhos",
+
+    categoria: "infantil",
+
+    preco: 39.9,
+
+    descricao: "Caneca Desenhos para presentear.",
+
+    midias: [
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara36/desenho (1).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara36/desenho (2).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara36/desenho (3).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara36/desenho (4).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara36/desenho (5).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara36/desenho (6).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara36/desenho (7).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara36/desenho (8).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara36/desenho (9).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara36/desenho (10).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara36/desenho (11).png",
+      },
+    ],
+  },
+
+  {
+    id: 37,
+
+    nome: "Memes",
+
+    categoria: "variados",
+
+    preco: 39.9,
+
+    descricao: "Caneca Memes para presentear.",
+
+    midias: [
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara37/meme (1).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara37/meme (2).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara37/meme (3).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara37/meme (4).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara37/meme (5).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara37/meme (6).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara37/meme (7).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara37/meme (8).jpg",
+      },
+    ],
+  },
+
+  {
+    id: 38,
+
+    nome: "Marcas",
+
+    categoria: "variados",
+
+    preco: 39.9,
+
+    descricao: "Caneca Marcas para presentear.",
+
+    midias: [
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara38/marca (1).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara38/marca (2).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara38/marca (3).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara38/marca (4).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara38/marca (5).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara38/marca (6).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara38/marca (7).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara38/marca (8).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara38/marca (9).jpg",
+      },
+    ],
+  },
+
+  {
+    id: 39,
+
+    nome: "LGBT",
+
+    categoria: "datas",
+
+    preco: 39.9,
+
+    descricao: "Xícara LGBT personalizada para presentear.",
+
+    midias: [
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (1).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (2).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (3).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (4).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (5).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (6).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (7).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (8).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (9).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (10).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (11).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (12).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (13).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (14).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (15).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (16).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (17).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (18).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (19).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (20).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (21).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (22).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (23).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (24).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (25).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (26).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (27).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (28).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (29).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (30).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (31).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (32).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (33).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (34).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (35).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (36).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (37).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (38).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (39).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (40).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (41).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (42).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (43).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (44).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (45).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (46).jpg",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara39/LGBT (47).jpg",
       },
     ],
   },
