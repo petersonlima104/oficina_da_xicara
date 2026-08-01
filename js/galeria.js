@@ -32,6 +32,9 @@ function carregarCategoria(categoria) {
       break;
 
     case "datas":
+      for (let i = 1; i <= 349; i++) {
+        imagens.push(`assets/datasNew/Arte (${i}).jpg`);
+      }
       for (let i = 1; i <= 128; i++) {
         imagens.push(`assets/dataspng/Arte (${i}).png`);
       }
