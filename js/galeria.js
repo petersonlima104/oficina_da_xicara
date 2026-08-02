@@ -32,7 +32,7 @@ function carregarCategoria(categoria) {
       break;
 
     case "datas":
-      for (let i = 1; i <= 349; i++) {
+      for (let i = 1; i <= 475; i++) {
         imagens.push(`assets/datasNew/Arte (${i}).jpg`);
       }
       for (let i = 1; i <= 128; i++) {
@@ -50,6 +50,13 @@ function carregarCategoria(categoria) {
       }
       for (let i = 1; i <= 29; i++) {
         imagens.push(`assets/animepng/Arte (${i}).png`);
+      }
+
+      break;
+
+    case "profissoes":
+      for (let i = 1; i <= 82; i++) {
+        imagens.push(`assets/profissao/Arte (${i}).jpg`);
       }
 
       break;
@@ -75,11 +82,18 @@ function carregarCategoria(categoria) {
         imagens.push(`assets/animepng/Arte (${i}).png`);
       }
 
+      for (let i = 1; i <= 475; i++) {
+        imagens.push(`assets/datasNew/Arte (${i}).jpg`);
+      }
       for (let i = 1; i <= 213; i++) {
         imagens.push(`assets/datas/Arte (${i}).jpg`);
       }
       for (let i = 1; i <= 124; i++) {
         imagens.push(`assets/dataspng/Arte (${i}).png`);
+      }
+
+      for (let i = 1; i <= 82; i++) {
+        imagens.push(`assets/profissao/Arte (${i}).jpg`);
       }
   }
 
@@ -116,7 +130,7 @@ window.addEventListener("scroll", () => {
   }
 
   // Define a altura para exibir o botão
-  const alturaExibicao = window.innerWidth <= 768 ? 19000 : 8000;
+  const alturaExibicao = window.innerWidth <= 768 ? 27000 : 10000;
 
   if (window.scrollY > alturaExibicao) {
     backToTop.classList.add("show");
