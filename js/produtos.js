@@ -13,6 +13,10 @@ const produtos = [
     midias: [
       {
         tipo: "imagem",
+        src: "assets/produtos/xicara28/pai 59.jpeg",
+      },
+      {
+        tipo: "imagem",
         src: "assets/produtos/xicara28/pai 1.png",
       },
       {
