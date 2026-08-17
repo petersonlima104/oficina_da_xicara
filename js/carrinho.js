@@ -53,22 +53,65 @@ function diminuir(id) {
   }
 }
 
-function calcularTotal() {
+function obterQuantidadeTotal() {
   const carrinho = obterCarrinho();
 
-  return carrinho.reduce(
-    (soma, item) => {
-      return soma + item.preco * item.quantidade;
-    },
+  return carrinho.reduce((total, item) => total + item.quantidade, 0);
+}
 
-    0,
-  );
+function calcularSubtotal() {
+  const carrinho = obterCarrinho();
+
+  return carrinho.reduce((soma, item) => {
+    return soma + item.preco * item.quantidade;
+  }, 0);
+}
+
+function calcularDesconto() {
+  const quantidadeTotal = obterQuantidadeTotal();
+
+  const subtotal = calcularSubtotal();
+
+  if (quantidadeTotal >= 2) {
+    return subtotal * 0.25;
+  }
+
+  return 0;
+}
+
+function calcularTotal() {
+  const subtotal = calcularSubtotal();
+
+  const desconto = calcularDesconto();
+
+  return subtotal - desconto;
 }
 
 function renderizar() {
+  const quantidadeTotal = obterQuantidadeTotal();
+
+  let mensagemDesconto = "";
+
+  if (quantidadeTotal === 1) {
+    mensagemDesconto = `
+    <div class="discount-progress">
+      🛍️ Adicione mais <strong>1 item</strong> e ganhe <strong>25% OFF</strong>!
+    </div>
+  `;
+  }
+
+  if (quantidadeTotal >= 2) {
+    mensagemDesconto = `
+    <div class="discount-progress active">
+      🎉 Você ganhou <strong>25% de desconto!</strong>
+    </div>
+  `;
+  }
+
   const carrinho = obterCarrinho();
 
   listaCarrinho.innerHTML = "";
+  listaCarrinho.innerHTML = mensagemDesconto;
 
   if (carrinho.length === 0) {
     listaCarrinho.innerHTML = `
@@ -162,7 +205,31 @@ function renderizar() {
     listaCarrinho.appendChild(div);
   });
 
-  valorTotal.textContent = formatarMoeda(calcularTotal());
+  const subtotal = calcularSubtotal();
+  const desconto = calcularDesconto();
+  const total = calcularTotal();
+
+  if (desconto > 0) {
+    valorTotal.innerHTML = `
+    <div class="cart-subtotal">
+      Subtotal: ${formatarMoeda(subtotal)}
+    </div>
+
+    <div class="cart-discount">
+      🎉 Desconto de 25%: -${formatarMoeda(desconto)}
+    </div>
+
+    <div class="cart-total-final">
+      Total: ${formatarMoeda(total)}
+    </div>
+  `;
+  } else {
+    valorTotal.innerHTML = `
+    <div class="cart-subtotal">
+      Total: ${formatarMoeda(subtotal)}
+    </div>
+  `;
+  }
 }
 
 btnLimpar.addEventListener("click", () => {
@@ -180,9 +247,13 @@ btnWhatsapp.addEventListener("click", () => {
 
   if (carrinho.length === 0) {
     alert("Seu carrinho está vazio.");
-
     return;
   }
+
+  const quantidadeTotal = obterQuantidadeTotal();
+  const subtotal = calcularSubtotal();
+  const desconto = calcularDesconto();
+  const total = calcularTotal();
 
   let mensagem = `Olá, gostaria de fazer o seguinte pedido:
 
@@ -191,14 +262,35 @@ btnWhatsapp.addEventListener("click", () => {
   carrinho.forEach((item) => {
     mensagem += `• ${item.nome}
 Quantidade: ${item.quantidade}
+Valor: ${formatarMoeda(item.preco * item.quantidade)}
 
 `;
   });
 
-  mensagem += `Total do Pedido:
-${formatarMoeda(calcularTotal())}
+  mensagem += `Subtotal:
+${formatarMoeda(subtotal)}
 
-Obrigado!`;
+`;
+
+  if (desconto > 0) {
+    mensagem += `🎉 Desconto de 25%:
+-${formatarMoeda(desconto)}
+
+`;
+  }
+
+  mensagem += `Total do Pedido:
+${formatarMoeda(total)}
+
+`;
+
+  if (quantidadeTotal >= 2) {
+    mensagem += `🎁 Desconto aplicado: 25% para 2 ou mais itens.
+
+`;
+  }
+
+  mensagem += `Obrigado!`;
 
   const url = `https://wa.me/5551981598167?text=${encodeURIComponent(mensagem)}`;
 

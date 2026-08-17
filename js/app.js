@@ -101,6 +101,10 @@ function renderizarProdutos(lista) {
             class="product-media"
             data-id="${produto.id}">
 
+            <span class="discount-badge">
+                25% OFF 2un+
+            </span>
+
             ${criarMidia(produto.midias[0])}
 
             <button
@@ -138,6 +142,10 @@ function renderizarProdutos(lista) {
                 R$
                 ${produto.preco.toFixed(2).replace(".", ",")}
 
+            </div>
+
+            <div class="discount-info">
+                🛍️ Compre 2 ou mais e ganhe 25% OFF
             </div>
 
             <button

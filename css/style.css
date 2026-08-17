@@ -342,6 +342,48 @@ nav {
   object-fit: cover;
 }
 
+/* =========================
+   SELO DE DESCONTO
+========================= */
+
+.product-media {
+  position: relative;
+}
+
+.discount-badge {
+  position: absolute;
+
+  top: 12px;
+  left: 12px;
+
+  z-index: 10;
+
+  background: #e63946;
+  color: white;
+
+  padding: 7px 12px;
+
+  border-radius: 20px;
+
+  font-size: 13px;
+  font-weight: 700;
+
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.25);
+}
+
+/* Informação abaixo do preço */
+
+.discount-info {
+  margin-top: 7px;
+
+  font-size: 12px;
+  font-weight: 600;
+
+  color: #e63946;
+
+  line-height: 1.4;
+}
+
 .gallery-nav {
   position: absolute;
   top: 50%;
