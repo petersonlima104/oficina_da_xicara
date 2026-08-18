@@ -1,4 +1,62 @@
 const produtos = [
+ {
+    id: 21,
+
+    nome: "GTA - Grand Theft Auto",
+
+    categoria: "games",
+
+    preco: 39.9,
+
+    descricao: "Xícara GTA - Grand Theft Auto para presentear.",
+
+    midias: [
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara19/gta 1.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara19/gta 2.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara19/gta 3.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara19/gta 4.png",
+      },
+    ],
+  },
+
+  {
+    id: 22,
+
+    nome: "Call of Duty",
+
+    categoria: "games",
+
+    preco: 39.9,
+
+    descricao: "Xícara Call of Duty para presentear.",
+
+    midias: [
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara20/duty 1.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara20/duty 2.png",
+      },
+      {
+        tipo: "imagem",
+        src: "assets/produtos/xicara20/duty 3.png",
+      },
+    ],
+  },
+
   {
     id: 1,
 
@@ -1399,64 +1457,6 @@ const produtos = [
       {
         tipo: "imagem",
         src: "assets/produtos/xicara16/netflix 5.jpg",
-      },
-    ],
-  },
-
-  {
-    id: 21,
-
-    nome: "GTA - Grand Theft Auto",
-
-    categoria: "games",
-
-    preco: 39.9,
-
-    descricao: "Xícara GTA - Grand Theft Auto para presentear.",
-
-    midias: [
-      {
-        tipo: "imagem",
-        src: "assets/produtos/xicara19/gta 1.png",
-      },
-      {
-        tipo: "imagem",
-        src: "assets/produtos/xicara19/gta 2.png",
-      },
-      {
-        tipo: "imagem",
-        src: "assets/produtos/xicara19/gta 3.png",
-      },
-      {
-        tipo: "imagem",
-        src: "assets/produtos/xicara19/gta 4.png",
-      },
-    ],
-  },
-
-  {
-    id: 22,
-
-    nome: "Call of Duty",
-
-    categoria: "games",
-
-    preco: 39.9,
-
-    descricao: "Xícara Call of Duty para presentear.",
-
-    midias: [
-      {
-        tipo: "imagem",
-        src: "assets/produtos/xicara20/duty 1.png",
-      },
-      {
-        tipo: "imagem",
-        src: "assets/produtos/xicara20/duty 2.png",
-      },
-      {
-        tipo: "imagem",
-        src: "assets/produtos/xicara20/duty 3.png",
       },
     ],
   },
